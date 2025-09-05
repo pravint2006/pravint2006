@@ -2,6 +2,13 @@
 <h3 align="center">Cyber Enthusiast | Tools Builder | Red Team Learner | THM & HTB Player</h3>
 
 
+<h1 align="left">About me:</h1>
+
+<p align="left">I’m a cybersecurity enthusiast and aspiring Red Team professional with a passion for building tools, exploring vulnerabilities, and learning new technologies. I enjoy creating projects that solve real-world problems and sharing my code and knowledge with the community. Always curious, always experimenting, and always improving.</p>
+
+
+
+
 <h1 align="left">Connect with me:</h1>
 
 ###
@@ -70,16 +77,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-###
 
 <br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pravint2006/pravint2006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pravint2006/pravint2006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pravint2006/pravint2006/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-###
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/pravint2006/pravint2006/output/pacman-contribution-graph.svg" />
-</picture>
